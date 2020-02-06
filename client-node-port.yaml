@@ -10,4 +10,4 @@ spec:
       NodePort: 31515
   selector:
     component: web
-    
+
